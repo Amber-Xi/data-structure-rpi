@@ -1,0 +1,16 @@
+5 Polygon(s):  brown cyan green purple red
+5 Triangle(s):  brown cyan green purple red
+3 IsoscelesTriangle(s):  green purple red
+0 RightTriangle(s): 
+0 IsoscelesRightTriangle(s): 
+1 EquilateralTriangle(s):  red
+0 Quadrilateral(s): 
+0 Trapezoid(s): 
+0 Kite(s): 
+0 Parallelogram(s): 
+0 Rhombus(s): 
+0 Rectangle(s): 
+0 Square(s): 
+0 Shape(s) with all equal sides: 
+0 Shape(s) with all equal angles: 
+0 Shape(s) with a right angle: 
